@@ -1,0 +1,11 @@
+{
+    "name": "direccionamiento_proof",
+    "version": "1.0.0",
+    "description": "Examen de direccionamiento",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "VDAG",
+    "license": "ISC"
+}
